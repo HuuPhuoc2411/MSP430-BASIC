@@ -1,5 +1,7 @@
 ## Đây là các ví dụ cơ bản về lập trình MSP430
 Sử dụng phần mềm IAR
+<br/>
+Sơ đồ chân của MSP430
 <picture>
   <img alt="MSP430" src="https://github.com/HuuPhuoc2411/MSP430-BASIC/blob/main/LaunchPadMSP430G2452-v1.5.jpg">
 </picture>
