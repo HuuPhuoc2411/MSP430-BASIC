@@ -2,7 +2,7 @@
 Sử dụng phần mềm IAR
 <br/>
 Một số ví dụ như:
--code hiển thị led 7 đoạn [code]()
--code xuất xung PWM [code]()
--code đọc ADC [code]()
--code chương trình ngắt [code]()
+- code hiển thị led 7 đoạn [code]()
+- code xuất xung PWM [code]()
+- code đọc ADC [code]()
+- code chương trình ngắt [code]()
