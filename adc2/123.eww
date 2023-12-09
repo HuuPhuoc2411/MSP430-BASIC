@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\7doan_timer\7doan_timer.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\adc2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\thuchanh1_1\b1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\giaotiep2bit\commu_2bit.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\control_ic595\control_ic595.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\dem_gio\dem_gio.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\fft\fft.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\mauham\ham.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\baithuchanh1\leb1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\4led7 595\led7595.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Nguyen led7 doan ic\N_7doan_ic.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\ngat\ngat.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\control ngat\ngat2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\pwm\pwm.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\servo\servo.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\timer\timer.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\uart1\uart1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\led7_yeucau2\yeucau2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

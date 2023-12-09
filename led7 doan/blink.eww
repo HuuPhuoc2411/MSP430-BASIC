@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\7doan2\7doan2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\led7 doan nhay\7doannhay.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\adc\adc1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\adc2\adc2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\blinkled.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\bai4\blynkled1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\demo led\demo led.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\baithuchanh1\leb1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\vd1\led1.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\4led7 595\led7595.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Nguyen led7 doan ic\N_7doan_ic.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\ngat\ngat.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\control ngat\ngat2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\test2\t2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
