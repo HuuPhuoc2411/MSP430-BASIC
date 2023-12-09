@@ -6,4 +6,4 @@ Một số ví dụ như:
 - code xuất xung PWM [code](/pwm)
 - code đọc ADC [code](/adc2)
 - code chương trình ngắt [code](/ngat)
-- Code led 7 đoạn sử dụng ic595 [code](/4led7 595)
+- Code led 7 đoạn sử dụng ic595 [code](https://github.com/HuuPhuoc2411/MSP430-BASIC/tree/main/4led7%20595)
