@@ -8,6 +8,6 @@ Một số ví dụ như:
 - code đọc ADC [code](/adc2)
 - code chương trình ngắt [code](/ngat)
 ## Hướng dẫn sử dụng ic595
-Hướng dẫn được đính kèm theo file word [word]()
+Hướng dẫn được đính kèm theo file word [word](/Hướng dẫn sử dụng IC74HC595 điều khiển LED 7 đoạn.docx)
 ## Ví dụ ppt báo cáo đồ án cuối kỳ.
 Được đính kèm tại  [ppt]()
